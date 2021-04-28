@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# here is a list my favorite fruits:
+- apple
+- grape
+- orange
+- pear
